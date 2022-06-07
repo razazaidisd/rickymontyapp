@@ -1,0 +1,1 @@
+export const GQL_API_URL = 'https://rickandmortyapi.com/graphql';
